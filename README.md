@@ -33,12 +33,6 @@
 ---
 
 
-
----
-
-
----
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/nulltrace1336">
