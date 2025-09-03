@@ -1,9 +1,5 @@
 <!-- Cybersecurity Profile README for nulltrace1336 -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF9D&center=true&vCenter=true&width=600&lines=🔐+Cybersecurity+Enthusiast;⚡+Pentester+%7C+CTF+Player+%7C+Bug+Hunter;🚀+Always+Learning+%26+Building" alt="Typing SVG" />
-</h1>
-
 ---
 
 ## 👨‍💻 About Me
@@ -40,11 +36,6 @@
 
 ---
 
-## 🏆 CTF & Training
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/nulltrace1336.png" alt="TryHackMe" width="200"/>
-  <img src="https://www.hackthebox.com/badge/image/nulltrace1336" alt="HackTheBox" width="200"/>
-</p>
 
 ---
 
