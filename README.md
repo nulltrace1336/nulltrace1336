@@ -12,7 +12,11 @@
 - 🎯 Focused on **Pentesting, Web Security, and Bug Bounty**  
 - 🧩 Passionate about **CTFs (Crypto, Web, Reverse, Stego, Forensics)**  
 - 🔥 Always exploring **Red Teaming & Exploitation**  
-- 📚 Currently learning: **Malware Analysis & Advanced Web Attacks**  
+- 📚 Currently learning: **Malware Analysis & Advanced Web Attacks**
+- 🛡️ Advocate of Secure Coding & Defense in Depth
+- 🌐 Experienced with OWASP Top 10 & real-world exploitation
+- ⚡ Skilled in network analysis, exploitation frameworks, and custom scripts
+- 🧑‍🏫 Sharing knowledge via write-ups, labs, and tutorials  
 
 ---
 
