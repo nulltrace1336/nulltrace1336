@@ -1,5 +1,7 @@
 <!-- Cybersecurity Profile README for nulltrace1336 -->
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:000000&height=200&section=header&text=NullTrace1336&fontSize=50&fontColor=FFFFFF" />
+</p>
 ---
 
 ## 👨‍💻 About Me
