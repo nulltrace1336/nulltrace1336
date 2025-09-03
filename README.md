@@ -27,6 +27,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nulltrace1336&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nulltrace1336&theme=tokyonight" />
+</p>
+
+---
+
 ## 🏆 Achievements
 - ✅ Completed labs on **TryHackMe & HackTheBox**  
 - ✅ Practiced **OWASP Top 10** vulnerabilities (XSS, SQLi, CSRF, IDOR, SSRF…)  
