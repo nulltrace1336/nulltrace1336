@@ -37,7 +37,6 @@
 ---
 
 ## 🏆 Achievements
-- ✅ Completed labs on **TryHackMe & HackTheBox**  
 - ✅ Practiced **OWASP Top 10** vulnerabilities (XSS, SQLi, CSRF, IDOR, SSRF…)  
 - ✅ Built personal **pentest labs** and performed exploitation tests  
 - ✅ Wrote **CTF write-ups** and automation scripts in Python  
