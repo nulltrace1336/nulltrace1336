@@ -65,6 +65,14 @@
 
 ---
 
+### ⚡ Fun Fact
+- I break apps for fun 🔓  
+- Coffee ☕ + Kali Linux = Perfect Day  
+- Keyboard is my weapon ⚔️
+
+
+---
+
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYEWpv7Ue0RFVaE/giphy.gif" width="600" alt="Matrix GIF"/>
 </p>
