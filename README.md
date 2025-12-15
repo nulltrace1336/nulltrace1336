@@ -1,12 +1,3 @@
-## Certifications
-
-### Cisco Networking Academy
-**Introduction to Cybersecurity**  
-[View Certificate PDF](certificates/I2CSUpdate20251212-30-ng34kc.pdf)
-
-
-
-
 <!-- Cybersecurity Profile README for nulltrace1336 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Cybersecurity+Researcher;Ethical+Hacker;CTF+Player;Bug+Bounty+Hunter)](https://git.io/typing-svg)
 
