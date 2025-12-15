@@ -2,7 +2,8 @@
 
 ### Cisco Networking Academy
 **Introduction to Cybersecurity**  
-[![Cisco Certificate](introduction-to-cybersecurity.png)](https://www.credly.com/badges/11414373-62bc-4a79-9f75-777ba4b1e9f3/public_url)
+[View Certificate PDF](I2CSUpdate20251212-30-ng34kc.pdf)
+
 
 
 
