@@ -1,3 +1,9 @@
+## Certifications
+
+### Cisco Networking Academy
+**Introduction to Cybersecurity**  
+[![Cisco Introduction to Cybersecurity](https://images.credly.com/size/340x340/images/11414373-62bc-4a79-9f75-777ba4b1e9f3/image.png)](https://www.credly.com/badges/11414373-62bc-4a79-9f75-777ba4b1e9f3/public_url)
+
 <!-- Cybersecurity Profile README for nulltrace1336 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Cybersecurity+Researcher;Ethical+Hacker;CTF+Player;Bug+Bounty+Hunter)](https://git.io/typing-svg)
 
