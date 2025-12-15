@@ -2,7 +2,7 @@
 
 ### Cisco Networking Academy
 **Introduction to Cybersecurity**  
-[![Cisco Certificate](introduction-to-cybersecurity.png)](https://www.credly.com/badges/11414373-62bc-4a79-9f75-777ba4b1e9f3/public_url)
+[![Cisco Certificate](certificates/introduction-to-cybersecurity.png)](https://www.credly.com/badges/11414373-62bc-4a79-9f75-777ba4b1e9f3/public_url)
 
 
 
