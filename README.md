@@ -2,7 +2,7 @@
 
 ### Cisco Networking Academy
 **Introduction to Cybersecurity**  
-[View Certificate PDF](I2CSUpdate20251212-30-ng34kc.pdf)
+[View Certificate PDF](certificates/I2CSUpdate20251212-30-ng34kc.pdf)
 
 
 
