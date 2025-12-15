@@ -3,6 +3,7 @@
 [<img src="introduction-to-cybersecurity.png" alt="Cisco Certificate Badge" width="120"/>](https://www.credly.com/badges/11414373-62bc-4a79-9f75-777ba4b1e9f3/public_url)  
 [View Certificate PDF](I2CSUpdate20251212-30-ng34kc.pdf)
 
+---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Cybersecurity+Researcher;Ethical+Hacker;CTF+Player;Bug+Bounty+Hunter)](https://git.io/typing-svg)
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:000000&height=200&section=header&text=NullTrace1336&fontSize=50&fontColor=FFFFFF" /> </p>
